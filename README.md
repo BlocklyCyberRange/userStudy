@@ -5,5 +5,6 @@ This repository is part of the BlocklyCyberRange projekt in which we investigate
 The individual files contain:
  - [questions_evaluation.xlsx](https://github.com/BlocklyCyberRange/userStudy/blob/main/questions_evaluation.xlsx) : The surveys and statement catalogues we used for assessing the particpants' learning outcome and subjective learning experience
  - [trainee_dataset.xlsx](https://github.com/BlocklyCyberRange/userStudy/blob/main/trainee_dataset.xlsx) : the anonymized raw data that was collected in the user study
+ - [trainee_dataset.csv](https://github.com/BlocklyCyberRange/userStudy/blob/main/trainee_dataset.csv) : teh data set in csv format
  - [spss_output.spv](https://github.com/BlocklyCyberRange/userStudy/blob/main/spss_output.spv) : the results of the statistical analyses conducted in SPSS
  - [spss_output.pdf](https://github.com/BlocklyCyberRange/userStudy/blob/main/spss_output.pdf) : the core results of the statisical analyses in pdf format
