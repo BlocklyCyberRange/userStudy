@@ -1,6 +1,6 @@
 # userStudy
 
-This repository is part of the BlocklyCyberRange projekt in which we investigate the applicability of the Visual Programming Language Blockly for Cyber Range Training and contains the data and results of a user study in form of a Randomized Controlled Trial (RCT).
+This repository is part of the BlocklyCyberRange projekt in which we investigate the applicability of the Visual Programming Language [Blockly](https://developers.google.com/blockly) for Cyber Range Training and contains the data and results of a user study in form of a Randomized Controlled Trial (RCT).
 
 The individual files contain:
  - [questions_evaluation.xlsx](https://github.com/BlocklyCyberRange/userStudy/blob/main/questions_evaluation.xlsx) : The surveys and statement catalogues we used for assessing the particpants' learning outcome and subjective learning experience
